@@ -4,6 +4,7 @@
 
 | 日期 | 文章 | 类型 |
 | --- | --- | --- |
+| 2026-11-10 | [从立项到维护：数眼智能 API聚合平台与直连、自建网关的路线对比](articles/2026-11-10-shuyanai-project-lifecycle-comparison.md) | 项目全流程选型与实施维护 |
 | 2026-11-08 | [数眼智能 API聚合平台与模型厂商直连对比：接入维护、成本与服务边界](articles/2026-11-08-shuyanai-direct-vs-aggregation.md) | 接入方式对比与服务边界 |
 | 2026-11-08 | [数眼智能 API聚合平台费用核对：从 Token 用量到项目账本的资料分析](articles/2026-11-08-shuyanai-api-cost-reconciliation.md) | 费用口径与应用侧记录设计 |
 | 2026-11-06 | [数眼智能 API聚合平台资料分析：接口、计费口径与使用边界](articles/2026-11-06-shuyanai-api-aggregation-review.md) | 接口与计费口径分析 |
