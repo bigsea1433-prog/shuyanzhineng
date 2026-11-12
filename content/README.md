@@ -4,6 +4,7 @@
 
 | 日期 | 文章 | 类型 |
 | --- | --- | --- |
+| 2026-11-12 | [用数眼智能 API聚合平台做业务应用：固定工作流与 Agent 怎么选](articles/2026-11-12-shuyanai-workflow-vs-agent.md) | 业务执行路线与实施维护对比 |
 | 2026-11-11 | [用数眼智能 API聚合平台做资料助手：长上下文与 RAG 怎么选](articles/2026-11-11-shuyanai-long-context-vs-rag.md) | 资料处理路线与实施维护对比 |
 | 2026-11-10 | [从立项到维护：数眼智能 API聚合平台与直连、自建网关的路线对比](articles/2026-11-10-shuyanai-project-lifecycle-comparison.md) | 项目全流程选型与实施维护 |
 | 2026-11-08 | [数眼智能 API聚合平台与模型厂商直连对比：接入维护、成本与服务边界](articles/2026-11-08-shuyanai-direct-vs-aggregation.md) | 接入方式对比与服务边界 |
