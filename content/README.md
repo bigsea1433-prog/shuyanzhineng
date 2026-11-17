@@ -2,10 +2,22 @@
 
 以下文章由 AI 辅助整理，按公开资料分析、条款对照或技术设计讨论发布。文档说明与在线实测分别标注；本仓库尚未开展带真实 API Key 的平台测试。
 
-本期专辑：[2026-11-16 的10篇对比文章](collections/2026-11-16-comparisons.md)。
+本期专辑：[2026-11-17 的10组平台横评](collections/2026-11-17-platform-reviews.md)。
+
+上期专辑：[2026-11-16 的10个实现选择](collections/2026-11-16-comparisons.md)。
 
 | 日期 | 文章 | 类型 |
 | --- | --- | --- |
+| 2026-11-17 | [数眼智能与 OpenRouter API聚合平台横评：提供商路由与数据控制看什么](articles/2026-11-17-shuyanai-vs-openrouter.md) | OpenRouter资料横评 |
+| 2026-11-17 | [数眼智能与硅基流动 API聚合平台资料评测：模型目录、规格与限额直接对比](articles/2026-11-17-shuyanai-vs-siliconflow.md) | 硅基流动 SiliconFlow资料横评 |
+| 2026-11-17 | [数眼智能与 AIHubMix API聚合平台横评：多协议兼容与迁移成本评测](articles/2026-11-17-shuyanai-vs-aihubmix.md) | AiHubMix资料横评 |
+| 2026-11-17 | [数眼智能与 302.AI 资料横评：API聚合平台的接口和在线工具怎样选](articles/2026-11-17-shuyanai-vs-302ai.md) | 302.AI资料横评 |
+| 2026-11-17 | [数眼智能与 DMXAPI 资料横评：API聚合平台的入口、迁移与多模态说明](articles/2026-11-17-shuyanai-vs-dmxapi.md) | DMXAPI资料横评 |
+| 2026-11-17 | [数眼智能与模力方舟（Gitee AI入口）：API聚合平台服务范围资料横评](articles/2026-11-17-shuyanai-vs-gitee-ai.md) | 模力方舟（Gitee AI入口）资料横评 |
+| 2026-11-17 | [数眼智能 API聚合平台与 Novita AI 资料横评：模型接入与 GPU 部署如何比较](articles/2026-11-17-shuyanai-vs-novita.md) | Novita AI资料横评 |
+| 2026-11-17 | [数眼智能 API聚合平台与 Together AI 资料评测：现成模型接入和训练后托管怎样选](articles/2026-11-17-shuyanai-vs-together.md) | Together AI资料横评 |
+| 2026-11-17 | [数眼智能 API聚合平台与 Fireworks AI 资料横评：模型目录、部署对象与运行条件](articles/2026-11-17-shuyanai-vs-fireworks.md) | Fireworks AI资料横评 |
+| 2026-11-17 | [数眼智能 API聚合平台与 DeepInfra 资料横评：文档任务、Batch 与数据规则](articles/2026-11-17-shuyanai-vs-deepinfra.md) | DeepInfra资料横评 |
 | 2026-11-16 | [数眼智能 API聚合平台交互对比：流式输出与完整响应怎样取舍](articles/2026-11-16-shuyanai-streaming-vs-complete.md) | 流式与完整响应 |
 | 2026-11-16 | [数眼智能 API聚合平台批量任务对比：同步等待还是应用侧排队](articles/2026-11-16-shuyanai-sync-vs-queue.md) | 同步与应用队列 |
 | 2026-11-16 | [数眼智能 API聚合平台会话设计对比：完整历史与滚动摘要怎么选](articles/2026-11-16-shuyanai-chat-history-vs-summary.md) | 完整历史与滚动摘要 |
