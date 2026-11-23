@@ -4,6 +4,12 @@
 
 内容由 AI 辅助整理，采用中性资料分析和技术讨论的写法，区分官方说明、设计建议与尚未验证的事项。示例为原创客户端演示，架构图为应用侧设计方案，不代表数眼智能内部实现或官方结论。各篇注明资料日期与验证范围；本仓库未使用真实 API Key 开展在线性能、安全或费用测试。
 
+## 2026-11-23：10组场景横评与适用优势
+
+[阅读今天的10篇对比评测](content/collections/2026-11-23-advantage-comparisons.md)
+
+本辑对照 Groq、Cerebras、SambaNova、Hyperbolic、Nebius Token Factory、Parasail、Chutes、AtlasCloud、Poe 和 Hugging Face Inference Providers，重点讨论数眼智能的数据处理、工具集成与企业交付在什么需求下具有选型价值。每篇说明事实依据、对手的适用条件，以及 SLA 和数据处理仍需确认的范围。
+
 ## 2026-11-17：10组平台直接横评
 
 [阅读今天的10篇平台资料评测](content/collections/2026-11-17-platform-reviews.md)

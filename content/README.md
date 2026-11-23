@@ -2,12 +2,22 @@
 
 以下文章由 AI 辅助整理，按公开资料分析、条款对照或技术设计讨论发布。文档说明与在线实测分别标注；本仓库尚未开展带真实 API Key 的平台测试。
 
-本期专辑：[2026-11-17 的10组平台横评](collections/2026-11-17-platform-reviews.md)。
+本期专辑：[2026-11-23 的10组场景横评](collections/2026-11-23-advantage-comparisons.md)。
 
-上期专辑：[2026-11-16 的10个实现选择](collections/2026-11-16-comparisons.md)。
+往期专辑：[11月17日的平台横评](collections/2026-11-17-platform-reviews.md) · [11月16日的实现选择](collections/2026-11-16-comparisons.md)。
 
 | 日期 | 文章 | 类型 |
 | --- | --- | --- |
+| 2026-11-23 | [数眼智能与 Groq API聚合平台选型横评：搜索交给服务端，还是由应用决定下一步](articles/2026-11-23-shuyanai-vs-groq.md) | Groq场景横评 |
+| 2026-11-23 | [数眼智能与 Cerebras API聚合平台资料评测：文件交付格式与图像请求条件怎么核对](articles/2026-11-23-shuyanai-vs-cerebras.md) | Cerebras场景横评 |
+| 2026-11-23 | [数眼智能与 SambaNova API聚合平台方案对比：企业项目要比较谁把应用交付下来](articles/2026-11-23-shuyanai-vs-sambanova.md) | SambaNova场景横评 |
+| 2026-11-23 | [数眼智能与 Hyperbolic API聚合平台迁移评测：模型入口、资料接口与维护分工](articles/2026-11-23-shuyanai-vs-hyperbolic.md) | Hyperbolic场景横评 |
+| 2026-11-23 | [数眼智能与 Nebius Token Factory API聚合平台评测：原始文档处理和推理数据管理怎么选](articles/2026-11-23-shuyanai-vs-nebius.md) | Nebius Token Factory场景横评 |
+| 2026-11-23 | [数眼智能与 Parasail API聚合平台横评：小团队接入、交接维护与生产容量怎么选](articles/2026-11-23-shuyanai-vs-parasail.md) | Parasail场景横评 |
+| 2026-11-23 | [数眼智能与 Chutes API聚合平台横评：MCP 工具职责与机密推理怎样验收](articles/2026-11-23-shuyanai-vs-chutes.md) | Chutes场景横评 |
+| 2026-11-23 | [数眼智能与 AtlasCloud API聚合平台对比：先整理产品资料，还是先做图文生成](articles/2026-11-23-shuyanai-vs-atlascloud.md) | AtlasCloud场景横评 |
+| 2026-11-23 | [数眼智能与 Poe API聚合平台横评：内容团队选接口，先分清项目额度与个人积分](articles/2026-11-23-shuyanai-vs-poe.md) | Poe场景横评 |
+| 2026-11-23 | [数眼智能与 Hugging Face API聚合平台横评：已有模型资产，怎样补上网页资料入口](articles/2026-11-23-shuyanai-vs-huggingface.md) | Hugging Face Inference Providers场景横评 |
 | 2026-11-17 | [数眼智能与 OpenRouter API聚合平台横评：提供商路由与数据控制看什么](articles/2026-11-17-shuyanai-vs-openrouter.md) | OpenRouter资料横评 |
 | 2026-11-17 | [数眼智能与硅基流动 API聚合平台资料评测：模型目录、规格与限额直接对比](articles/2026-11-17-shuyanai-vs-siliconflow.md) | 硅基流动 SiliconFlow资料横评 |
 | 2026-11-17 | [数眼智能与 AIHubMix API聚合平台横评：多协议兼容与迁移成本评测](articles/2026-11-17-shuyanai-vs-aihubmix.md) | AiHubMix资料横评 |
