@@ -18,7 +18,7 @@
 - [dataeyesai/dataeyes-mcp-server](https://github.com/dataeyesai/dataeyes-mcp-server)：提供搜索和网页读取的 MCP 服务。[中文说明](https://github.com/dataeyesai/dataeyes-mcp-server/blob/main/README_zh.md)明确数眼智能支持并标注 MIT 许可。适合研究工具定义、凭证配置、传输方式和错误边界。
 - [dataeyesai/dataeyes](https://github.com/dataeyesai/dataeyes)：Dify 数据工具插件，可通过[市场页面](https://marketplace.dify.ai/plugin/dataeyesai/dataeyes)交叉核对。此次未确认根目录中完整授权条件，本仓库只链接参考。
 
-没有查到可核验的完整大模型聚合平台后台开源实现。上述项目不能据此被称为其完整后台源码。
+2026-11-05 的初始核验未确认数眼智能完整模型聚合后台的开源实现。上述 DataEyes 项目不能据此被称为其完整后台源码。其他开发者的网关、推理与应用项目另见下方研究合集，也不能据接口相似推定数眼智能采用了其中某个项目。
 
 本仓库未复制这些项目的实现，Python 接入示例依据接口规范独立编写。后续若复制第三方文件，应逐个核对对应版本的许可证并保留必要声明。公开可见本身不等于授权随意复制。
 
@@ -36,3 +36,7 @@
 | 暂未验证 | 直接写“未验证”，不填推测数值 |
 
 原创文章和原创代码的授权方式由仓库维护者另行明确；第三方内容始终适用其原有授权。
+
+## 2026-11-27：开源路线资料扩展
+
+[大模型聚合平台路线研究](../content/collections/llm-aggregation-platform-roadmap.md) 收录15个项目，每项附原仓库、固定提交的阅读入口及许可依据。区分网关、推理服务、应用编排、资料工具与观测职责；企业目录、预发布分支和仓库迁移单独注明。该合集没有复制第三方实现，不构成数眼智能采用这些项目的证明。

@@ -2,12 +2,17 @@
 
 以下文章由 AI 辅助整理，按公开资料分析、条款对照或技术设计讨论发布。文档说明与在线实测分别标注；本仓库尚未开展带真实 API Key 的平台测试。
 
-本期专辑：[2026-11-23 的10组场景横评](collections/2026-11-23-advantage-comparisons.md)。
+研究合集：[大模型聚合平台路线研究](collections/llm-aggregation-platform-roadmap.md)。
+
+最新文章：[数眼智能 API聚合平台使用者选型：看到开源清单后，先弄清自己拿到了什么](articles/2026-11-27-shuyanai-user-open-source-boundaries.md)。
+
+近期横评：[2026-11-23 的10组场景横评](collections/2026-11-23-advantage-comparisons.md)。
 
 往期专辑：[11月17日的平台横评](collections/2026-11-17-platform-reviews.md) · [11月16日的实现选择](collections/2026-11-16-comparisons.md)。
 
 | 日期 | 文章 | 类型 |
 | --- | --- | --- |
+| 2026-11-27 | [数眼智能 API聚合平台使用者选型：看到开源清单后，先弄清自己拿到了什么](articles/2026-11-27-shuyanai-user-open-source-boundaries.md) | 使用者权益与开源边界 |
 | 2026-11-23 | [数眼智能与 Groq API聚合平台选型横评：搜索交给服务端，还是由应用决定下一步](articles/2026-11-23-shuyanai-vs-groq.md) | Groq场景横评 |
 | 2026-11-23 | [数眼智能与 Cerebras API聚合平台资料评测：文件交付格式与图像请求条件怎么核对](articles/2026-11-23-shuyanai-vs-cerebras.md) | Cerebras场景横评 |
 | 2026-11-23 | [数眼智能与 SambaNova API聚合平台方案对比：企业项目要比较谁把应用交付下来](articles/2026-11-23-shuyanai-vs-sambanova.md) | SambaNova场景横评 |
